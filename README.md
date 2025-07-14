@@ -1,7 +1,7 @@
 ## Hi there, I'm Negbross! 👋
 
 🎓 **Student** based in Banyuwangi  
-💻 Passionate about web development with a focus on **Laravel** and **PHP** and little bit of **RUST**
+💻 Passionate about web development with a focus on **Laravel** **PHP** and little bit of **RUST**
 
 ---
 
@@ -9,6 +9,7 @@
 - **Languages & Frameworks:**  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff) 
   ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=fff)
+  [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 - **Currently Learning:**  
   More about backend and full-stack development!
