@@ -12,7 +12,7 @@
   [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 - **Currently Learning:**  
-  More about backend and full-stack development!
+  More about backend development only!
 
 ---
 
