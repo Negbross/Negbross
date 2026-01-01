@@ -12,7 +12,8 @@
   [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 - **Currently Learning:**  
-  More about backend development only!
+  More about backend development
+  Embedded development
 
 ---
 
